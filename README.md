@@ -1,6 +1,6 @@
 najibkiyemba/README.md
 
-Hi there, I'm Najib. I develop user interfaces using react. 👌
+Hi there, I'm Najib. 👌
 
         My Development Skill
            1. React
