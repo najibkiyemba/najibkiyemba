@@ -1,15 +1,18 @@
 najibkiyemba/README.md
 
-#Hi there, I'm Najib. 👌
+# About me
+#### Hi there, I'm Najib. I develop websites using HTML/CSS and JavaScript. Buy me a coffee ☕️ 
 
-       # My Development Skill
-           1. React
-           2. Javascript
-           3. Html
-           4. Css
-           5. Bootstrap
-           6. Python.
-           7. Git
-           8. Github
 
-contact me @  https://najibkiyemba.github.io/myReactPortfolio/
+| Rank | Development Tools 🛠️ 🧰 |
+|-----:|------------------------|
+|     1|       HTML             |
+|     2|       CSS.             |
+|     3|.      BOOTSTRAP       |
+|     4|       JAVASCRIPT      |
+|     5|       REACT          |
+
+
+## Contact me
+###### https://najibkiyemba.github.io/myReactPortfolio/
+
