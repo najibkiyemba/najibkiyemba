@@ -1,18 +1,37 @@
-najibkiyemba/README.md
+# 👋 About Me  
 
-# About me
-#### Hi there, I'm Najib. I develop websites using HTML/CSS and JavaScript. Buy me a coffee ☕️ 
+Hi, I'm **Najib Kiyemba** — a Software Engineering student at WGU (graduating soon 🎓) passionate about designing scalable, efficient, and user-friendly applications.  
 
+I love solving problems with clean code, whether it’s building full-stack web apps, writing backend APIs, or optimizing databases.  
 
-| Rank | Development Tools 🛠️ 🧰 |
-|-----:|------------------------|
-|     1|       HTML             |
-|     2|       CSS           |
-|     3|     BOOTSTRAP       |
-|     4|       JAVASCRIPT      |
-|     5|       REACT          |
+---
 
+## 🛠️ Tech Stack  
 
-## Contact me
-###### https://najibkiyemba.github.io/myReactPortfolio/
+**Languages:** Java, Python, JavaScript, SQL  
+**Frameworks & Tools:** Spring Boot, React, Bootstrap, Node.js  
+**Databases:** MySQL, PostgreSQL  
+**Other Skills:** REST APIs, Git/GitHub, Unit Testing (JUnit/PyTest), Agile/Scrum  
 
+---
+
+## 🚀 Featured Projects  
+
+🔹 [My React Portfolio](https://najibkiyemba.github.io/myReactPortfolio/) – Personal portfolio showcasing my projects  
+🔹 *Full-Stack Travel Planner (Spring Boot + React + PostgreSQL)* – RESTful API with authentication & frontend UI  
+🔹 *Task Manager App (Python + Flask + MySQL)* – CRUD app with user login and deployment on Heroku  
+🔹 *Data Visualization Dashboard (Python + Pandas + Matplotlib)* – Analyzing and visualizing real-world dataset  
+
+*(Feel free to replace project ideas with actual repos as you build them.)*  
+
+---
+
+## 📫 Connect With Me  
+
+- Portfolio: [najibkiyemba.github.io/myReactPortfolio](https://najibkiyemba.github.io/myReactPortfolio/)  
+- LinkedIn: *(add when ready)*  
+- Email: *(your professional email)*  
+
+---
+
+💡 *Open to internships and full-time opportunities in software engineering, web development, and backend systems.*  
