@@ -1,6 +1,6 @@
 # 👋 About Me  
 
-Hi, I'm **Najib Kiyemba** — a Software Engineering student at WGU (graduating soon 🎓) passionate about designing scalable, efficient, and user-friendly applications.  
+Hi, I'm **Najib Kiyemba** a Software Engineering student at WGU (graduating soon 🎓) passionate about designing scalable, efficient, and user-friendly applications.  
 
 I love solving problems with clean code, whether it’s building full-stack web apps, writing backend APIs, or optimizing databases.  
 
@@ -29,8 +29,8 @@ I love solving problems with clean code, whether it’s building full-stack web 
 ## 📫 Connect With Me  
 
 - Portfolio: [najibkiyemba.github.io/myReactPortfolio](https://najibkiyemba.github.io/myReactPortfolio/)  
-- LinkedIn: *(add when ready)*  
-- Email: *(your professional email)*  
+- LinkedIn: *https://www.linkedin.com/in/najibkiyemba-156775241/*  
+- Email: *Coming soon...*  
 
 ---
 
