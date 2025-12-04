@@ -1,22 +1,23 @@
 # 👋 About Me  
 
-Hi, I'm **Najib Kiyemba**, a Software Engineering student at WGU (graduating soon 🎓), passionate about designing scalable, efficient, and user-friendly applications.  
+Hi, I'm **Najib Kiyemba**, a Software Engineering student at WGU (graduating soon 🎓), passionate about designing scalable, efficient, and user-friendly applications.  dddd
 
 I love solving problems with clean code, whether it’s building full-stack web apps, writing backend APIs, or optimizing databases.  
 
 ---
 
-** 🛠️ Tech Stack **
+## 🛠️ Tech Stack ##
 
-🖥️ Frontend: HTML, CSS, JavaScript, React, TypeScript, Bootstrap  
-⚙️ Backend: Java, Spring, Python, JavaScript  
+🖥️ 
+Frontend: HTML, CSS, JavaScript, React, TypeScript, Bootstrap 
+⚙️ <small> Backend: Java, Spring, Python, JavaScript </small>
 🗄️ Databases: MySQL, PostgreSQL  
 🧠 Other Skills: REST APIs, Git/GitHub, Unit Testing (JUnit, PyTest), Agile/Scrum   
 ---
 
 ## 🚀 Featured Projects  
 
-🔹 [My React Portfolio](https://najibkiyemba.github.io/myReactPortfolio/) – Personal portfolio showcasing my projects  
+🔹 [My React Portfolio](https://najibkiyemba.github.io/myReactPortfolio/) – Personal portfolio showcasing my projects kjkk 
 🔹 *Full-Stack Travel Planner (Spring Boot + React + PostgreSQL)* – RESTful API with authentication & frontend UI  
 🔹 *Task Manager App (Python + Flask + MySQL)* – CRUD app with user login and deployment on Heroku  
 🔹 *Data Visualization Dashboard (Python + Pandas + Matplotlib)* – Analyzing and visualizing real-world dataset  
