@@ -9,7 +9,7 @@ I love solving problems with clean code, whether it’s building full-stack web 
 ## 🛠️ Tech Stack  
 
 **Languages:** Java, Python, JavaScript, SQL  
-**Frameworks & Tools:** Spring Boot, React, Bootstrap, Node.js  
+**Frameworks & Tools:** Spring Boot, React, TypeScript, Bootstrap, Node.js  
 **Databases:** MySQL, PostgreSQL  
 **Other Skills:** REST APIs, Git/GitHub, Unit Testing (JUnit/PyTest), Agile/Scrum  
 
