@@ -8,7 +8,7 @@ I love solving problems with clean code, whether it’s building full-stack web 
 
 ## 🛠️ Tech Stack ##
 
-🔹 **Frontend:** HTML, CSS, JavaScript, React, TypeScript, Bootstrap  
+🔹 #### Frontend: #### HTML, CSS, JavaScript, React, TypeScript, Bootstrap  
 🔹 **Backend:** Java, Spring, Python, JavaScript  
 🔹 **Databases:** MySQL, PostgreSQL  
 🔹 **Other Skills:** REST APIs, Git/GitHub, Unit Testing (JUnit, PyTest), Agile/Scrum  
