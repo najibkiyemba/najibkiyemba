@@ -26,6 +26,9 @@ I develop full-stack web applications using HTML, CSS, JavaScript, React, TypeSc
 
 ---
 
+## Cetificates
+1..
+
 ## 📫 Connect With Me  
 
 - Portfolio: [najibkiyemba.github.io/myReactPortfolio](https://najibkiyemba.github.io/myReactPortfolio/)  
