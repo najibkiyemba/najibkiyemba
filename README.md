@@ -1,6 +1,6 @@
 # 👋 About Me  
 
-Hi, I'm **Najib Kiyemba**, a Software Engineering student at WGU (graduating soon 🎓), passionate about designing scalable, efficient, and user-friendly applications.
+Hi, I'm **Najib Kiyemba**, a Software Engineering student at Western Governors University (graduating soon 🎓), passionate about designing scalable, efficient, and user-friendly applications.
 
 I develop full-stack web applications using HTML, CSS, JavaScript, React, TypeScript, Java Spring, MySQL, and PostgreSQL.
 
