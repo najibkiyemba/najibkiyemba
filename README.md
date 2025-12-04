@@ -6,7 +6,7 @@ I love solving problems with clean code, whether it’s building full-stack web 
 
 ---
 
-**🛠️ Tech Stack**
+## 🛠️ Tech Stack ##
 
 🔹 **Frontend:** HTML, CSS, JavaScript, React, TypeScript, Bootstrap  
 🔹 **Backend:** Java, Spring, Python, JavaScript  
