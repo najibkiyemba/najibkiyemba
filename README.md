@@ -19,12 +19,10 @@ I love solving problems with clean code, whether it’s building full-stack web 
 
 ## 🚀 Featured Projects  
 
-🔹 [My React Portfolio](https://najibkiyemba.github.io/myReactPortfolio/) – Personal portfolio showcasing my projects kjkk 
+🔹 [My React Portfolio](https://najibkiyemba.github.io/myReactPortfolio/) – Personal portfolio showcasing some of the projects I have worked on. 
 🔹 *Full-Stack Travel Planner (Spring Boot + React + PostgreSQL)* – RESTful API with authentication & frontend UI  
 🔹 *Task Manager App (Python + Flask + MySQL)* – CRUD app with user login and deployment on Heroku  
 🔹 *Data Visualization Dashboard (Python + Pandas + Matplotlib)* – Analyzing and visualizing real-world dataset  
-
-*(Feel free to replace project ideas with actual repos as you build them.)*  
 
 ---
 
