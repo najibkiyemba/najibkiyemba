@@ -9,7 +9,7 @@ I love solving problems with clean code, whether it’s building full-stack web 
 
 
 ## 🛠️ Tech Stack ##
-ddddd
+🖥️ Frontend: HTML, CSS, JavaScript, React, TypeScript, Bootstrap
 
 
 
