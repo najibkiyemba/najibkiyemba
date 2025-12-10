@@ -34,13 +34,14 @@ Restaurant search and review app built with JavaScript and the Yelp API. Include
 
 Form validation application using JavaScript, showcasing input validation, error handling, and user feedback.
 
-🔹 Online Survey Form
+🔹 [Online Survey Form](https://najibkiyemba.github.io/onlineSurveyForm/) - Developed an Online Survey Form as a final project for the Generation U.S. program in Seattle, demonstrating front-end development and user data handling.
 
 Feedback and survey web form project from Generation USA, demonstrating front-end design and data collection.
 
-🔹 Introduction Resume App
+🔹 [Introduction Resume App](https://introduction-resume2023-584cd3hgjrhdd.netlify.app/) - React-based project for displaying resume skills and more. 
 
-JavaScript-based project for creating and displaying resumes interactively.
+Interactive resume web app built with React. Displays Skills, Experience, Education, Certifications, and Projects in a user-friendly format.
+
 ---
 
 ## 🎓 Certifications
