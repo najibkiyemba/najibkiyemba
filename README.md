@@ -42,6 +42,10 @@ Feedback and survey web form project from Generation USA, demonstrating front-en
 
 Interactive resume web app built with React. Displays Skills, Experience, Education, Certifications, and Projects in a user-friendly format.
 
+🔹 [ShopFlow App](https://github.com/najibkiyemba/shopflow) - (In Progress)
+
+Current project: e-commerce workflow app with product management, shopping cart, and order tracking. Built with React, Node.js, and MongoDB.
+
 ---
 
 ## 🎓 Certifications
