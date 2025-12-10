@@ -1,4 +1,4 @@
-# # \u{1F44B} About Me
+# # {1F44B} About Me
 
 Hi, I'm **Najib Kiyemba**, a Software Engineering student at Western Governors University (graduating soon 🎓), passionate about designing scalable, efficient, and user-friendly applications.
 
