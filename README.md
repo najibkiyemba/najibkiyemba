@@ -30,7 +30,7 @@ Web app for searching movies using JavaScript and an external API. Implements re
 
 Restaurant search and review app built with JavaScript and the Yelp API. Includes filtering and interactive UI.
 
-🔹 Validation Form App [Validation-App](https://github.com/najibkiyemba/validationFormApp) - Ensures validation from user inputs.
+🔹 [Validation Form App](https://najibkiyemba.github.io/validationFormApp/) - Ensures validation from user inputs.
 
 Form validation application using JavaScript, showcasing input validation, error handling, and user feedback.
 
