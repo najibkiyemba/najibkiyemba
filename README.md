@@ -17,12 +17,10 @@ I develop full-stack web applications using HTML, CSS, JavaScript, React, TypeSc
 
 ---
 
-## 🚀 Featured Projects  
+🚀 Featured Projects
+🔹 My React Portfolio
 
-🔹 [My React Portfolio](https://najibkiyemba.github.io/myReactPortfolio/) – Personal portfolio showcasing some of the projects I have worked on. <br>
-🔹 *Full-Stack Travel Planner (Spring Boot + React + PostgreSQL)* – RESTful API with authentication & frontend UI  
-🔹 *Task Manager App (Python + Flask + MySQL)* – CRUD app with user login and deployment on Heroku  
-🔹 *Data Visualization Dashboard (Python + Pandas + Matplotlib)* – Analyzing and visualizing real-world dataset  
+Personal portfolio showcasing projects I’ve built using React and modern web development practices.
 
 ---
 
