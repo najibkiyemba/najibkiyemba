@@ -26,8 +26,14 @@ I develop full-stack web applications using HTML, CSS, JavaScript, React, TypeSc
 
 ---
 
-## Cetificates
-1..
+## 🎓 Certifications
+
+![Project+](https://img.shields.io/badge/CompTIA-Project%2B-blue)
+![ITIL 4](https://img.shields.io/badge/ITIL-4-brightgreen)
+![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud%20Practitioner-orange)
+![Web Development](https://img.shields.io/badge/Web%20Development-Generation%20US-red)
+![Java](https://img.shields.io/badge/Java-Revature-yellow)
+
 
 ## 📫 Connect With Me  
 
