@@ -18,7 +18,7 @@ I develop full-stack web applications using HTML, CSS, JavaScript, React, TypeSc
 ---
 
 ## 🚀 Featured Projects
-🔹 My React Portfolio
+🔹 [My React Portfolio](https://najibkiyemba.github.io/myReactPortfolio/) – Personal portfolio showcasing my projects.
 Personal portfolio showcasing projects I’ve built using React and modern web development practices.
 
 ---
@@ -31,7 +31,7 @@ Personal portfolio showcasing projects I’ve built using React and modern web d
 ![Web Development](https://img.shields.io/badge/Web%20Development-Generation%20US-red)
 ![Java](https://img.shields.io/badge/Java-Revature-yellow)
 
-
+---
 ## 📫 Connect With Me  
 
 - Portfolio: [najibkiyemba.github.io/myReactPortfolio](https://najibkiyemba.github.io/myReactPortfolio/)  
