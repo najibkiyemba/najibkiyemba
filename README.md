@@ -17,9 +17,8 @@ I develop full-stack web applications using HTML, CSS, JavaScript, React, TypeSc
 
 ---
 
-🚀 Featured Projects
+## 🚀 Featured Projects
 🔹 My React Portfolio
-
 Personal portfolio showcasing projects I’ve built using React and modern web development practices.
 
 ---
