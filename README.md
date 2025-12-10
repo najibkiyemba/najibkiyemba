@@ -56,8 +56,7 @@ Interactive resume web app built with React. Displays Skills, Experience, Educat
 ## 📫 Connect With Me  
 
 - Portfolio: [najibkiyemba.github.io/myReactPortfolio](https://najibkiyemba.github.io/myReactPortfolio/)  
-- LinkedIn: *https://www.linkedin.com/in/najibkiyemba-156775241/*  
-- Email: *Coming soon...*  
+- LinkedIn: *https://www.linkedin.com/in/najibkiyemba-156775241/*    
 
 ---
 
