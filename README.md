@@ -22,6 +22,25 @@ I develop full-stack web applications using HTML, CSS, JavaScript, React, TypeSc
 
 Personal portfolio showcasing projects I’ve built using React and modern web development practices.
 
+🔹 Movie Finder [Movie Finder](https://github.com/najibkiyemba/movieFinder)
+
+Web app for searching movies using JavaScript and an external API. Implements responsive design and dynamic search results.
+
+🔹 Ravenous
+
+Restaurant search and review app built with JavaScript and the Yelp API. Includes filtering and interactive UI.
+
+🔹 Validation Form App
+
+Form validation application using JavaScript, showcasing input validation, error handling, and user feedback.
+
+🔹 Online Survey Form
+
+Feedback and survey web form project from Generation USA, demonstrating front-end design and data collection.
+
+🔹 Introduction Resume App
+
+JavaScript-based project for creating and displaying resumes interactively.
 ---
 
 ## 🎓 Certifications
