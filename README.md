@@ -22,15 +22,15 @@ I develop full-stack web applications using HTML, CSS, JavaScript, React, TypeSc
 
 Personal portfolio showcasing projects I’ve built using React and modern web development practices.
 
-🔹 [Movie Finder](https://github.com/najibkiyemba/movieFinder) - Use Movie Finder to search movies and watch movies online
+🔹 [Movie Finder](https://github.com/najibkiyemba/movieFinder) - Use Movie Finder to search for movies and watch movies online
 
 Web app for searching movies using JavaScript and an external API. Implements responsive design and dynamic search results.
 
-🔹 Ravenous
+🔹 [Ravenous](https://github.com/najibkiyemba/ravenous) - Ravenous uses zipcode to search for restaurants in that area. 
 
 Restaurant search and review app built with JavaScript and the Yelp API. Includes filtering and interactive UI.
 
-🔹 Validation Form App
+🔹 Validation Form App [Validation-App](https://github.com/najibkiyemba/validationFormApp) - Ensures validation from user inputs.
 
 Form validation application using JavaScript, showcasing input validation, error handling, and user feedback.
 
